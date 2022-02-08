@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Botond. 
-- 👀 I’m interested in JS, HTML, CSS, GIT. :)
-- 🌱 I’m currently learning Java and PHP. 
+- 👀 I’m interested in JS, GROOVY, HTML, CSS, GIT. :)
+- 🌱 I’m currently learning Python. 
 - 📫 You can reach me in email: kun.botond@botit.hu
 
 <!---
