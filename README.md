@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Botond. 
-- 👀 I’m interested in JS, GROOVY, HTML, CSS, GIT. :)
-- 🌱 I’m currently learning Python. 
-- 📫 You can reach me in email: kun.botond@botit.hu
+- 👀 I’m interested in JS, GROOVY, HTML, CSS, PYTHON :)
+- 🌱 I’m currently learning Python and SWIFT. 
+- 📫 You can reach me in email: kun.botond@icloud.com
 
 <!---
 💞️ I’m looking to collaborate on ...
